@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Ayman Ilias</h1>
 <h3 align="center">A Learner | A Dreamer | A Programmer | A Software Developer</h3>
 
+![Green Simple Personal LinkedIn Banner (3)](https://github.com/Ayman-ilias/Ayman-ilias/assets/129610276/ae89b6e5-90b4-4ce1-819a-02d633a633a0)
+
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayman-ilias&label=Profile%20views&color=0e75b6&style=flat" alt="ayman-ilias" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayman-ilias" alt="ayman-ilias" /></a> </p>
