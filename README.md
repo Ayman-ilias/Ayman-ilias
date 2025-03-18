@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Ayman Ilias</h1>
 <h3 align="center">Software Engineer | ML Enthusiast | A Dreamer | A Learner</h3>
 
-<p align="center">
-  <img src="https://github.com/Ayman-ilias/Ayman-ilias/assets/129610276/dc604eb4-1642-48ca-962b-c08db73acd33" alt="Ayman Ilias" width="200" height="200"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayman-ilias&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
