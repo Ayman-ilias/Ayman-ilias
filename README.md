@@ -17,8 +17,7 @@
 ### 📚 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayman%20Ilias-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayman-ilias)
-[![Twitter](https://img.shields.io/badge/Twitter-@AymanIlias-blue?style=for-the-badge&logo=twitter)](https://twitter.com/AymanIlias)
-[![Email](https://img.shields.io/badge/Email-ayman.ilias@example.com-blue?style=for-the-badge&logo=gmail)](mailto:ayman.ilias@example.com)
+[![Email](https://img.shields.io/badge/Email-ayman.ilias@example.com-blue?style=for-the-badge&logo=gmail)](mailto:aymanilias00@gmail.com)
 
 ---
 
