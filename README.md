@@ -17,7 +17,7 @@
 ### 📚 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayman%20Ilias-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayman-ilias)
-[![Email](https://img.shields.io/badge/Email-ayman.ilias@example.com-blue?style=for-the-badge&logo=gmail)](mailto:aymanilias00@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aymanilias00@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:aymanilias00@gmail.com)
 
 ---
 
