@@ -1,14 +1,10 @@
 <h1 align="center">Hi, I'm Ayman Ilias</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayman-ilias&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 
-</p>
-
-<p>I am a passionate learner and software engineer with a deep interest in machine learning. I enjoy working on real-world problems using the latest technologies, and I thrive in collaborative environments. 
-
-My mission is to leverage my skills in software engineering and machine learning to build impactful solutions.</p>
+<p>I am an aspiring Software Engineer with strong proficiency in Python and experience in building and optimizing ML models using 
+Pandas, NumPy, OpenCV, and TensorFlow. Skilled in software development, backend systems, and database 
+management, with a focus on delivering scalable AI-driven solutions in fast-paced, collaborative environments.</p>
 
 
 
@@ -49,3 +45,8 @@ My mission is to leverage my skills in software engineering and machine learning
 </p>
 
 ---
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ayman-ilias&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+
+</p>
