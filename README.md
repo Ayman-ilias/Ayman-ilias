@@ -1,16 +1,14 @@
 <h1 align="center">Hi, I'm Ayman Ilias</h1>
-<h3 align="center">Software Engineer | ML Enthusiast | A Dreamer | A Learner</h3>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayman-ilias&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+
 </p>
----
-I am a passionate learner and software engineer with a deep interest in machine learning. I enjoy working on real-world problems using the latest technologies, and I thrive in collaborative environments. 
 
-My mission is to leverage my skills in software engineering and machine learning to build impactful solutions.
+<p>I am a passionate learner and software engineer with a deep interest in machine learning. I enjoy working on real-world problems using the latest technologies, and I thrive in collaborative environments. 
 
----
+My mission is to leverage my skills in software engineering and machine learning to build impactful solutions.</p>
 
 
 
