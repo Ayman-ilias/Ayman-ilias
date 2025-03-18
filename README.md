@@ -5,15 +5,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayman-ilias&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+---
+I am a passionate learner and software engineer with a deep interest in machine learning. I enjoy working on real-world problems using the latest technologies, and I thrive in collaborative environments. 
 
-
-
-### 📚 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayman%20Ilias-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayman-ilias)
-[![Email](https://img.shields.io/badge/Email-aymanilias00@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:aymanilias00@gmail.com)
+My mission is to leverage my skills in software engineering and machine learning to build impactful solutions.
 
 ---
+
+
 
 ### 🛠️ Languages and Tools:
 
@@ -52,25 +51,5 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayman-ilias&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayman-ilias&show_icons=true&locale=en" alt="Ayman Ilias Stats" />
-</p>
-
----
-
-### 📝 About Me:
-
-I am a passionate learner and software engineer with a deep interest in machine learning. I enjoy working on real-world problems using the latest technologies, and I thrive in collaborative environments. 
-
-My mission is to leverage my skills in software engineering and machine learning to build impactful solutions.
 
 ---
