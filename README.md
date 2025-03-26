@@ -2,9 +2,7 @@
 
 
 
-<p>I am an aspiring Software Engineer with strong proficiency in Python and experience in building and optimizing ML models using 
-Pandas, NumPy, OpenCV, and TensorFlow. Skilled in software development, backend systems, and database 
-management, with a focus on delivering scalable AI-driven solutions in fast-paced, collaborative environments.</p>
+<p>I am an aspiring Software Engineer with strong proficiency in Python and experience in building and optimizing ML models using Pandas, NumPy, OpenCV, and TensorFlow. I have skills in software development, backend systems, and database management, with a focus on delivering scalable AI-driven solutions in fast-paced, collaborative environments...</p>
 
 
 
