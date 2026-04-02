@@ -1,167 +1,154 @@
+<!-- HEADER BANNER -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Ayman%20Ilias%20Ovi&fontSize=60&color=gradient&customColorList=2,3,30&fontColor=fff&animation=fadeIn&strokeWidth=0&desc=ML%20Researcher%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20R%26D%20Engineer&descSize=18&descAlignY=72&descColor=8ecae6" alt="header"/>
+</div>
+
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayman%20Ilias%20Ovi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ML%20Researcher%20%7C%20Computer%20Vision%20Engineer%20%7C%20R%26D%20Engineer&descAlignY=58&descSize=16&descColor=a8b4c8" />
-
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI+systems+that+work+in+the+real+world;YOLOv8+%7C+OpenCV+%7C+TensorFlow+%7C+LSTM;From+Traffic+Control+to+Industrial+IoT+%E2%86%92+Shipping+It)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=900&color=8ECAE6&center=true&vCenter=true&width=650&lines=Building+AI+systems+that+ship+to+production+%F0%9F%9A%80;YOLOv8+%7C+OpenCV+%7C+TensorFlow+%7C+LSTM+%7C+ESP32;Turning+research+into+real-world+deployments+%E2%9A%99%EF%B8%8F;Computer+Vision+%E2%80%A2+Industrial+IoT+%E2%80%A2+Applied+ML)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- PROFILE VIEWS + SOCIAL BADGES -->
-<a href="https://ayman-ilias.github.io/Ayman_Ilias_Ovi/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-1e90ff?style=for-the-badge&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/aymanilias">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://kaggle.com/aymanilias999">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:aymanilias00@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/◈_Portfolio-ayman--ilias.github.io-0077B5?style=for-the-badge&labelColor=0d1117&color=238636)](https://ayman-ilias.github.io/Ayman_Ilias_Ovi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/aymanilias)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0d1117)](https://kaggle.com/aymanilias999)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:aymanilias00@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=ayman-ilias&label=Profile+Views&color=1e90ff&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ayman-ilias&label=Profile+Views&color=238636&style=flat-square&labelColor=0d1117"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-ilias&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117" width="38%"/>
 
-```python
-class AymanIlias:
-    def __init__(self):
-        self.name       = "Ayman Ilias Ovi"
-        self.role       = "ML Researcher & R&D Engineer @ Southern IoT"
-        self.education  = "B.Sc. Mechatronics & Industrial Engineering, CUET"
-        self.location   = "Dhaka, Bangladesh 🇧🇩"
-        self.focus      = ["Computer Vision", "Machine Learning", "Industrial AI", "IoT Systems"]
+### 👨‍💻 whoami
 
-    def current_work(self):
-        return [
-            "🔬 Applied AI research for industrial IoT deployments",
-            "📡 LoRaWAN-based industrial energy monitoring systems",
-            "🤖 YOLOv8-driven traffic intelligence (published thesis)",
-            "⚙️  ERP & enterprise software development",
-        ]
+```
+┌──(ayman㉿researcher)-[~/world]
+└─$ cat about.txt
 
-    def ask_me_about(self):
-        return ["OpenCV", "YOLOv8", "TensorFlow", "LSTM", "Django", "ESP32", "MQTT"]
+  Role     →  ML Researcher & R&D Engineer @ Southern IoT
+  Degree   →  B.Sc. Mechatronics & IE — CUET (3.78 Final Year)
+  Focus    →  Computer Vision · Industrial AI · IoT Systems
+  Base     →  Dhaka, Bangladesh 🇧🇩
+  Status   →  Open to research collaborations ✅
 ```
 
----
+**Currently working on:**
+- 🔬 Applied AI research for industrial IoT systems
+- 📡 LoRaWAN-based energy monitoring (ChirpStack + Grafana)
+- 🚦 YOLOv8 traffic intelligence pipeline (thesis → production)
+- 🏭 ERP system for RMG industry
 
-## 🚀 Tech Stack
-
-### 🐍 Languages
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🤖 ML / AI / Computer Vision
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-00FFAA?style=for-the-badge&logo=yolo&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</p>
-
-### 🌐 Web & Backend
-<p>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"/>
-</p>
-
-### 📡 IoT & Embedded Systems
-<p>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00878A?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white"/>
-<img src="https://img.shields.io/badge/LoRaWAN-005EA6?style=for-the-badge&logo=semtech&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-</p>
-
-### 📊 Monitoring & DevOps
-<p>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-### ⚙️ Industrial & Engineering
-<p>
-<img src="https://img.shields.io/badge/MATLAB-EE4C2C?style=for-the-badge&logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Siemens%20TIA%20Portal-009999?style=for-the-badge&logo=siemens&logoColor=white"/>
-<img src="https://img.shields.io/badge/SolidWorks-C00000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChirpStack-2D9CDB?style=for-the-badge&logoColor=white"/>
-</p>
+<br clear="right"/>
 
 ---
 
-## 📌 Research Highlights
+## 🧰 Tech Stack
 
-| Project | Area | Output |
-|---|---|---|
-| 🚦 **AI-Driven Traffic Control** (Thesis) | Computer Vision · YOLOv8 | 35% wait-time reduction in simulation |
-| 🚗 **Vehicle Classification Research** | CV · ML | Multi-location automated counting pipeline |
-| 🏥 **Emergency Route Optimization** | LSTM · Time-Series | 34-feature dataset + predictive routing |
-| 🌊 **Flash Flood Risk Assessment** | Data Science · GIS | 50-year validated rainfall dataset |
-| 🤖 **AI Text Detection** | NLP · SVM | 85% accuracy, published on GitHub |
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🐍 Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00427E?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**🤖 ML / AI / Computer Vision**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00C853?style=flat-square&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+**🌐 Web & Backend**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**🗄️ Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+
+**📡 IoT & Embedded Systems**
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-005EA6?style=flat-square&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RPi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+**⚙️ Tools & Infra**
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-EE4C2C?style=flat-square&logo=mathworks&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-C00000?style=flat-square&logo=dassaultsystemes&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 🔬 Research & Projects
+
+| # | Project | Stack | Highlight |
+|---|---------|-------|-----------|
+| 🚦 | **[AI-Driven Traffic Control](https://github.com/Ayman-ilias/Density_Based_AI_Driven_Traffic_Control_System)** — *Thesis* | YOLOv8 · OpenCV · Django | **35% ↓** intersection wait time |
+| 🚗 | **Vehicle Classification Research** | OpenCV · ML · Python | Multi-location automated counting pipeline |
+| 🏥 | **Emergency Route Optimization** | LSTM · REST APIs · NumPy | 34-feature time-series dataset |
+| 🌊 | **Flash Flood Risk Assessment** | GIS · Python · Statistical Analysis | 50-year validated rainfall dataset |
+| 🤖 | **[AI Text Detection](https://github.com/Ayman-ilias/Ai_TEXT_DETECTOR)** | SVM · TF-IDF · Scikit-learn | **85% accuracy** on held-out test set |
+| 📚 | **[TimeBooks Library System](https://timebooks.onrender.com)** | Django · SQLite · SMTP | Full-stack live deployment |
+| 🏭 | **[Hey Potu POS System](https://github.com/Ayman-ilias/hey_potu_pos)** | Django · MySQL | Enterprise retail solution |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayman-ilias&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-ilias&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayman-ilias&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayman-ilias&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=8ecae6&icon_color=238636&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayman-ilias&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=238636&ring=8ecae6&fire=ff6b6b&currStreakLabel=8ecae6" width="49%"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements at a Glance
+## 🏅 Highlights
 
 <div align="center">
 
-| 🥇 | 📚 | 🧩 | 🐍 |
+|  |  |  |  |
 |:---:|:---:|:---:|:---:|
-| **Champion** — Tech Day (RMA) | **3× Merit Scholarship** — CUET | **250+** Algo challenges solved | **180+** Python sessions taught |
-| **Semi-Finalist** — Robomania (BUBT) | **Final Year CGPA 3.78**/4.00 | **25+** Kaggle notebooks | **30+** GitHub repositories |
+| 🥇 **Champion** | 🎓 **3× Merit Scholarship** | 💻 **250+ Problems** | 📓 **25+ Kaggle Notebooks** |
+| Tech Day · RMA | CUET · Academic | LeetCode · HackerRank | Computer Vision & ML |
+| 🏆 **Semi-Finalist** | 📈 **CGPA 3.78** | 🐍 **180+ Sessions** | 🗂️ **30+ Repositories** |
+| Robomania · BUBT | Final Year | Python Instructor | Open Source |
 
 </div>
 
@@ -169,10 +156,8 @@ class AymanIlias:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=90&section=footer" />
 
-**💡 Open to research collaborations, ML projects, and engineering challenges**
-
-*"Build things that matter. Measure everything. Ship it."*
+**💬 Reach out for research collaborations, ML projects, or just a good tech conversation**
 
 </div>
