@@ -1,6 +1,25 @@
 <!-- HEADER BANNER -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=200&section=header&text=Ayman%20Ilias%20Ovi&fontSize=55&fontColor=8ecae6&animation=fadeIn&fontAlignY=38&desc=ML%20Researcher%20%7C%20Computer%20Vision%20%7C%20R%26D%20Engineer&descSize=17&descAlignY=62&descColor=c9d1d9"/>
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#0f2744"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="30%" style="stop-color:#8ecae6"/>
+      <stop offset="70%" style="stop-color:#8ecae6"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" fill="url(#bg)" rx="12"/>
+  <text x="450" y="80" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="bold" fill="#8ecae6" letter-spacing="2">Ayman Ilias Ovi</text>
+  <rect x="150" y="95" width="600" height="2" fill="url(#line)" rx="1"/>
+  <text x="450" y="128" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="15" fill="#c9d1d9" letter-spacing="3">ML RESEARCHER  ·  COMPUTER VISION  ·  R&amp;D ENGINEER</text>
+  <text x="450" y="158" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#6e7681" letter-spacing="1">Dhaka, Bangladesh  🇧🇩</text>
+</svg>
 </div>
 
 <div align="center">
@@ -156,7 +175,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=90&section=footer"/>
+<svg width="900" height="60" viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#0f2744"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="60" fill="url(#footerbg)" rx="8"/>
+  <text x="450" y="36" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#6e7681" letter-spacing="1">💬 Open to research collaborations, ML projects &amp; good tech conversations</text>
+</svg>
 
 **💬 Reach out for research collaborations, ML projects, or just a good tech conversation**
 
