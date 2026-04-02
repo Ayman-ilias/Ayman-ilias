@@ -1,63 +1,44 @@
-<!-- HEADER BANNER -->
-<div align="center">
-<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#0f2744"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="30%" style="stop-color:#8ecae6"/>
-      <stop offset="70%" style="stop-color:#8ecae6"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="180" fill="url(#bg)" rx="12"/>
-  <text x="450" y="80" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="bold" fill="#8ecae6" letter-spacing="2">Ayman Ilias Ovi</text>
-  <rect x="150" y="95" width="600" height="2" fill="url(#line)" rx="1"/>
-  <text x="450" y="128" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="15" fill="#c9d1d9" letter-spacing="3">ML RESEARCHER  ·  COMPUTER VISION  ·  R&amp;D ENGINEER</text>
-  <text x="450" y="158" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#6e7681" letter-spacing="1">Dhaka, Bangladesh  🇧🇩</text>
-</svg>
-</div>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=900&color=8ECAE6&center=true&vCenter=true&width=650&lines=Building+AI+systems+that+ship+to+production+%F0%9F%9A%80;YOLOv8+%7C+OpenCV+%7C+TensorFlow+%7C+LSTM+%7C+ESP32;Turning+research+into+real-world+deployments+%E2%9A%99%EF%B8%8F;Computer+Vision+%E2%80%A2+Industrial+IoT+%E2%80%A2+Applied+ML)](https://git.io/typing-svg)
+# 👨‍💻 Ayman Ilias Ovi
 
-<br/>
+### ML Researcher &nbsp;·&nbsp; Computer Vision Engineer &nbsp;·&nbsp; R&D Engineer
 
-[![Portfolio](https://img.shields.io/badge/◈_Portfolio-ayman--ilias.github.io-0077B5?style=for-the-badge&labelColor=0d1117&color=238636)](https://ayman-ilias.github.io/Ayman_Ilias_Ovi/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/aymanilias)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0d1117)](https://kaggle.com/aymanilias999)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:aymanilias00@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+work+in+the+real+world+%F0%9F%9A%80;YOLOv8+%7C+OpenCV+%7C+TensorFlow+%7C+LSTM+%7C+ESP32;Computer+Vision+%7C+Industrial+IoT+%7C+Applied+ML)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=ayman-ilias&label=Profile+Views&color=238636&style=flat-square&labelColor=0d1117"/>
+---
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-238636?style=for-the-badge&labelColor=161b22)](https://ayman-ilias.github.io/Ayman_Ilias_Ovi/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22)](https://www.linkedin.com/in/aymanilias)
+&nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=161b22)](https://kaggle.com/aymanilias999)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22)](mailto:aymanilias00@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ayman-ilias&label=Profile+Views&color=238636&style=flat-square&labelColor=161b22)
 
 </div>
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-ilias&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117" width="38%"/>
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-ilias&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=161b22"/>
 
-### 👨‍💻 whoami
+### `$ whoami`
 
-```
-┌──(ayman㉿researcher)-[~/world]
-└─$ cat about.txt
-
-  Role     →  ML Researcher & R&D Engineer @ Southern IoT
-  Degree   →  B.Sc. Mechatronics & IE — CUET (3.78 Final Year)
-  Focus    →  Computer Vision · Industrial AI · IoT Systems
-  Base     →  Dhaka, Bangladesh 🇧🇩
-  Status   →  Open to research collaborations ✅
+```yaml
+name    : Ayman Ilias Ovi
+role    : ML Researcher & R&D Engineer @ Southern IoT
+degree  : B.Sc. Mechatronics & IE — CUET
+cgpa    : 3.78 / 4.00  (Final Year)
+base    : Dhaka, Bangladesh 🇧🇩
+status  : Open to research collaborations ✅
 ```
 
-**Currently working on:**
-- 🔬 Applied AI research for industrial IoT systems
-- 📡 LoRaWAN-based energy monitoring (ChirpStack + Grafana)
-- 🚦 YOLOv8 traffic intelligence pipeline (thesis → production)
+**Now building →**
+- 🔬 Applied AI for industrial IoT deployments
+- 📡 LoRaWAN energy monitoring (ChirpStack + Grafana)
+- 🚦 YOLOv8 traffic intelligence (thesis → production)
 - 🏭 ERP system for RMG industry
 
 <br clear="right"/>
@@ -68,7 +49,7 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top">
 
 **🐍 Languages**
 
@@ -83,10 +64,11 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00C853?style=flat-square&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00C853?style=flat-square&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
 **🌐 Web & Backend**
 
@@ -97,7 +79,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top">
 
 **🗄️ Databases**
 
@@ -121,6 +103,7 @@
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
@@ -135,15 +118,15 @@
 
 ## 🔬 Research & Projects
 
-| # | Project | Stack | Highlight |
-|---|---------|-------|-----------|
-| 🚦 | **[AI-Driven Traffic Control](https://github.com/Ayman-ilias/Density_Based_AI_Driven_Traffic_Control_System)** — *Thesis* | YOLOv8 · OpenCV · Django | **35% ↓** intersection wait time |
-| 🚗 | **Vehicle Classification Research** | OpenCV · ML · Python | Multi-location automated counting pipeline |
-| 🏥 | **Emergency Route Optimization** | LSTM · REST APIs · NumPy | 34-feature time-series dataset |
-| 🌊 | **Flash Flood Risk Assessment** | GIS · Python · Statistical Analysis | 50-year validated rainfall dataset |
-| 🤖 | **[AI Text Detection](https://github.com/Ayman-ilias/Ai_TEXT_DETECTOR)** | SVM · TF-IDF · Scikit-learn | **85% accuracy** on held-out test set |
-| 📚 | **[TimeBooks Library System](https://timebooks.onrender.com)** | Django · SQLite · SMTP | Full-stack live deployment |
-| 🏭 | **[Hey Potu POS System](https://github.com/Ayman-ilias/hey_potu_pos)** | Django · MySQL | Enterprise retail solution |
+| Project | Stack | Result |
+|---------|-------|--------|
+| 🚦 **[AI-Driven Traffic Control](https://github.com/Ayman-ilias/Density_Based_AI_Driven_Traffic_Control_System)** *(Thesis)* | YOLOv8 · OpenCV · Django | **35% ↓** wait time |
+| 🚗 **Vehicle Classification Research** | OpenCV · ML · Python | Automated multi-location pipeline |
+| 🏥 **Emergency Route Optimization** | LSTM · REST APIs · NumPy | 34-feature time-series model |
+| 🌊 **Flash Flood Risk Assessment** | GIS · Python · Stats | 50-year validated dataset |
+| 🤖 **[AI Text Detection](https://github.com/Ayman-ilias/Ai_TEXT_DETECTOR)** | SVM · TF-IDF · Scikit-learn | **85% accuracy** |
+| 📚 **[TimeBooks Library System](https://timebooks.onrender.com)** | Django · SQLite | Live deployment |
+| 🏭 **[Hey Potu POS System](https://github.com/Ayman-ilias/hey_potu_pos)** | Django · MySQL | Enterprise retail |
 
 ---
 
@@ -151,8 +134,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayman-ilias&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=8ecae6&icon_color=238636&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayman-ilias&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=238636&ring=8ecae6&fire=ff6b6b&currStreakLabel=8ecae6" width="49%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayman-ilias&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=161b22&title_color=58a6ff&icon_color=238636&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayman-ilias&theme=dark&hide_border=true&background=161b22&stroke=238636&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff"/>
 
 </div>
 
@@ -162,12 +145,9 @@
 
 <div align="center">
 
-|  |  |  |  |
+| 🥇 Champion — Tech Day (RMA) | 🎓 3× Merit Scholarship — CUET | 💻 250+ Problems Solved | 📓 25+ Kaggle Notebooks |
 |:---:|:---:|:---:|:---:|
-| 🥇 **Champion** | 🎓 **3× Merit Scholarship** | 💻 **250+ Problems** | 📓 **25+ Kaggle Notebooks** |
-| Tech Day · RMA | CUET · Academic | LeetCode · HackerRank | Computer Vision & ML |
-| 🏆 **Semi-Finalist** | 📈 **CGPA 3.78** | 🐍 **180+ Sessions** | 🗂️ **30+ Repositories** |
-| Robomania · BUBT | Final Year | Python Instructor | Open Source |
+| **🏆 Semi-Finalist — Robomania** | **📈 Final Year CGPA 3.78/4.00** | **🐍 180+ Python Sessions** | **🗂️ 30+ Public Repos** |
 
 </div>
 
@@ -175,18 +155,8 @@
 
 <div align="center">
 
-<svg width="900" height="60" viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="footerbg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#0f2744"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="60" fill="url(#footerbg)" rx="8"/>
-  <text x="450" y="36" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#6e7681" letter-spacing="1">💬 Open to research collaborations, ML projects &amp; good tech conversations</text>
-</svg>
+*"Build things that matter. Measure everything. Ship it."*
 
-**💬 Reach out for research collaborations, ML projects, or just a good tech conversation**
+**💬 Open to research collaborations, ML projects & good tech conversations**
 
 </div>
