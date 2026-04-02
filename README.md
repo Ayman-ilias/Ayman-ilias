@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Ayman%20Ilias%20Ovi&fontSize=60&color=gradient&customColorList=2,3,30&fontColor=fff&animation=fadeIn&strokeWidth=0&desc=ML%20Researcher%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20R%26D%20Engineer&descSize=18&descAlignY=72&descColor=8ecae6" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=200&section=header&text=Ayman%20Ilias%20Ovi&fontSize=55&fontColor=8ecae6&animation=fadeIn&fontAlignY=38&desc=ML%20Researcher%20%7C%20Computer%20Vision%20%7C%20R%26D%20Engineer&descSize=17&descAlignY=62&descColor=c9d1d9"/>
 </div>
 
 <div align="center">
@@ -156,7 +156,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=90&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=90&section=footer"/>
 
 **💬 Reach out for research collaborations, ML projects, or just a good tech conversation**
 
