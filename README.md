@@ -29,8 +29,8 @@
 ```yaml
 name    : Ayman Ilias Ovi
 role    : ML Researcher & R&D Engineer @ Southern IoT
-degree  : B.Sc. Mechatronics & IE — CUET
-cgpa    : 3.78 / 4.00  (Final Year)
+degree  : B.Sc. Mechatronics & Industrial Engineering — CUET
+cgpa    : 3.43 / 4.00 
 base    : Dhaka, Bangladesh 🇧🇩
 status  : Open to research collaborations ✅
 ```
